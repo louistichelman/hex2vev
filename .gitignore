@@ -1,0 +1,3 @@
+# ignore data changes
+src/data/brw
+src/data/osm
